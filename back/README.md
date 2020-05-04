@@ -1,6 +1,6 @@
-# Node.js Blog API 🤓
+# Node.js API 🤓
 
-A simple RESTful node.js API which serves the clean Angular 8 blog frontend. 
+A simple RESTful node.js API 
 Built in Node.js & Express using MongoDB & Mongoose.
 
 # Built with 🔧
@@ -15,13 +15,12 @@ Built in Node.js & Express using MongoDB & Mongoose.
 
 - This app serves localhost:3000 by default
 - It can be deployed easily to Heroku
-- Once deployed, open `blog-front` and update the `/src/environments/` files accordingly
 
 ## Setup :man_astronaut:
 
 1. Fork 🍴 and Star ⭐️ this repository
 2. `git clone` to your local directory 💻
-3. cd `blog-back`
+3. cd `back`
 4. run `npm install`
 5. run `npm start`
 6. fire up the front end and enjoy!
