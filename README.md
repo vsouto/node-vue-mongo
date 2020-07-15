@@ -1,7 +1,8 @@
-# Serasa Node.js & Vue.js API 🤓
+# Node.js & Vue.js API 🤓
 
 A simple RESTful node.js API and vue.js front 
 Built in Node.js & Express using MongoDB & Mongoose.
+App was made as a test for Serasa
 
 # Built with 🔧
 
